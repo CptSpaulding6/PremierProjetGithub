@@ -1,0 +1,16 @@
+h1{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    justify-content: center;
+    margin: auto;
+    color: coral;
+}
+body{
+    background-color: cornflowerblue;
+}
+p{
+    margin: 2em;
+    text-align: center;
+    font-size: 20px;
+}
